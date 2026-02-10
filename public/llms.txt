@@ -1,0 +1,84 @@
+# שרה אורית תורם, משודרגOT — Generative Engine Optimization Map
+
+> A בריאות ושירותי רפואה business.
+
+---
+
+## Pages
+
+### Home
+https://ot-89ce7b93.zappy5.app
+
+### Services
+https://ot-89ce7b93.zappy5.app/services
+
+### About
+https://ot-89ce7b93.zappy5.app/about
+
+### Contact
+https://ot-89ce7b93.zappy5.app/contact
+
+### Products
+https://ot-89ce7b93.zappy5.app/products
+המוצרים שלנו - שרה אורית תורם, משודרגOT
+
+### Cart
+https://ot-89ce7b93.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://ot-89ce7b93.zappy5.app/checkout
+תשלום
+
+### Login
+https://ot-89ce7b93.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://ot-89ce7b93.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://ot-89ce7b93.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://ot-89ce7b93.zappy5.app/product/:slug
+פרטי המוצר - שרה אורית תורם, משודרגOT
+
+### Category
+https://ot-89ce7b93.zappy5.app/category/:slug
+מוצרים - שרה אורית תורם, משודרגOT
+
+## Legal & Policy
+
+### Privacy Policy
+https://ot-89ce7b93.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ot-89ce7b93.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ot-89ce7b93.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שרה אורית תורם, משודרגOT
+שרה אורית תורם, משודרגOT is a business in the בריאות ושירותי רפואה industry.
+
+## Target Audience
+
+## Industry
+בריאות ושירותי רפואה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ot-89ce7b93.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ot-89ce7b93.zappy5.app/robots.txt
